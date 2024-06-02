@@ -1,0 +1,109 @@
+.appname{
+    margin: auto;
+    width: 250px;
+    height: 50px;
+    color: whitesmoke;
+    background-color: darkslategray;
+    font-family: "Space Grotesk", sans-serif;
+
+    
+}
+
+.keys{
+    margin: auto;
+    width: 280px;
+    background-color: gray;
+    border-radius: 16px;
+    border: 2px solid;
+}
+
+.whole{
+    margin: auto;
+    width: 320px;
+    height: 490px;
+    background-color: darkslategray;
+    border-radius: 16px;
+    border:2px solid black;
+    margin-top: 100px;
+}
+
+.num-btn{
+    font-family: "Space Grotesk", sans-serif;
+    font-size: 20px;
+    width: 60px;
+    height: 58px;
+    border-radius: 16px;
+    border:2px solid;
+    border-color: black;
+}
+
+.command-btn{
+    font-family: "Space Grotesk", sans-serif;
+    background-color: orangered;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 60px;
+    height: 58px;
+    border-radius: 16px;
+    border: 2px solid black;
+}
+
+.one_del{
+    font-family: "Space Grotesk", sans-serif;
+    background-color: orangered;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 135px;
+    height: 58px;
+    border-radius: 16px;
+    border: 2px solid black;
+}
+
+.clear_me{
+    font-family: "Space Grotesk", sans-serif;
+    background-color: orangered;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 135px;
+    height: 58px;
+    border-radius: 16px;
+    border: 2px solid black;
+}
+
+.equals-btn{
+    font-family: "Space Grotesk", sans-serif;
+    background-color: cyan;
+    color: black;
+    font-size: 20px;
+    width: 60px;
+    height: 58px;
+    border-radius: 16px;
+    border: 2px solid black;
+}
+
+.view{
+    font-family: "Space Grotesk", sans-serif;
+    background-color: cadetblue;
+    color: whitesmoke;
+    font-size: 20px;
+    width: 265px;
+    height: 66px;
+    border-radius: 16px;
+    border: 2px solid black;
+    text-align: right;
+    
+}
+
+@media(max-width:1100px){
+
+}
+
+@media(max-width:1000px){
+
+}
+
+@media(max-width:500px){
+
+}
+
+
